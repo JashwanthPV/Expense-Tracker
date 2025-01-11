@@ -1,2 +1,8 @@
-# Expense-Tracker
-A simple app to track daily expenses. Users can add expenses, view them in a list, and see the total expenditure.
+Expense Tracker
+
+A simple Flask-based Expense Tracker to manage daily expenses.
+
+Features
+- Add, view, and delete expenses.
+- Displays total expenses.
+- Simple, user-friendly interface.
